@@ -10,6 +10,8 @@ public class Startup {
 		SpringApplication.run(Startup.class, args);
 
 		System.out.println("Hello Worldxxxxx");
+
+		System.out.println("Olá Cesar 2.0");
 	}
 
 }
